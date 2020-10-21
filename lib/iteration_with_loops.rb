@@ -12,5 +12,5 @@ end
 babies_array << new_baby
 row_index += 1
 end
-
+p babies_array
 end
